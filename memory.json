@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "message": "list files in music directory"
+  },
+  {
+    "role": "user",
+    "message": "list all files"
+  },
+  {
+    "role": "user",
+    "message": "list all files"
+  },
+  {
+    "role": "user",
+    "message": "list files in current directory"
+  },
+  {
+    "role": "user",
+    "message": "list all files"
+  }
+]
