@@ -43,7 +43,7 @@ It uses **Google Gemini** for natural language understanding and can:
     
       Run the cells to start the agent.
 
- #Usage
+## Usage
 
   When the agent starts, you can type natural language commands such as:
 
@@ -61,7 +61,7 @@ It uses **Google Gemini** for natural language understanding and can:
 
     Type quit to exit.
 
- #Requirements
+## Requirements
 
     Python 3.8+
     
