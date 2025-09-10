@@ -1,17 +1,17 @@
-# 🗂️ AI Media File Manager Agent
+#  AI Media File Manager Agent
 
 A simple AI-powered agent built in **Jupyter Notebook** that can manage your local files.  
 It uses **Google Gemini** for natural language understanding and can:
 
-- 📂 List files in the current directory or sub-directories  
-- 📖 Read text files (`.txt`, `.py`, `.md`, `.json`, etc.)  
-- 🎵 Play audio files (e.g., `.mp3`)  
-- 🎬 Play video files (e.g., `.mp4`)  
-- 📑 Open documents with the default system application  
+-  List files in the current directory or sub-directories  
+-  Read text files (`.txt`, `.py`, `.md`, `.json`, etc.)  
+-  Play audio files (e.g., `.mp3`)  
+-  Play video files (e.g., `.mp4`)  
+-  Open documents with the default system application  
 
 ---
 
-## ⚡ Setup Instructions
+##  Setup Instructions
 
 1. **Clone the repository**
    ```bash
@@ -70,20 +70,20 @@ It uses **Google Gemini** for natural language understanding and can:
     
     A media player installed (e.g., VLC, mpv, or system default opener)
 
- #Notes
+# Notes
 
-  Text file reading is limited to the first 1000 characters (to keep outputs manageable).
-  
-  The agent relies on your system’s default apps for opening/playing files.
-  
-  Works best on Linux/macOS (Windows may require adjusting subprocess calls).
+Text file reading is limited to the first 1000 characters (to keep outputs manageable).
 
-#Future Improvements
+The agent relies on your system’s default apps for opening/playing files.
 
-  Add persistent memory of previous sessions
-  
-  Support file search by keywords
-  
-  Extend support for more file formats
+Works best on Linux/macOS (Windows may require adjusting subprocess calls).
+
+# Future Improvements
+
+Add persistent memory of previous sessions
+
+Support file search by keywords
+
+Extend support for more file formats
 
 **smith-odero**
